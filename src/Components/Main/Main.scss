@@ -1,0 +1,135 @@
+main{
+    width: 600px;
+}
+main.light {
+	color: dimgray;
+	background-color: rgb(255, 255, 255);
+}
+.apple{
+    margin-left: 398px;
+}
+main.dark {
+	color: wheat;
+	background-color: dimgray;
+	
+}
+.main_header{
+    font-family: "Segoe UI";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    color: #000000;
+}
+.main_hr{
+    margin-left: -1px;
+}
+.main_input{
+    height: 73px;
+    width: 494px;
+    font-family: "Segoe UI";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 29px;
+    color: #828282;
+    border: none;
+    margin-left: 15px;
+    padding-top: -20px;
+}
+.main_image{
+    width: 152px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 70px;
+    margin-top: 20px;
+    margin-bottom: -20px;
+}
+.main_button{
+    width: 103px;
+    height: 50px;
+    background: #1D9BF0;
+    border-radius: 27.5px;
+    border: none;
+    color: white;
+    opacity: 0.4;
+    font-family: "Segoe UI";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    margin-left: 440px;
+}
+.main-flex{
+    display: flex;
+}
+.link-profile{
+    display: flex;
+}
+.main-name{
+    font-family: "Segoe UI";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    color: #000000;
+}
+.main-time{
+    font-family: "Segoe UI";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #000000;
+    opacity: 0.6;
+    margin-top: 23px;
+    margin-left: 10px;
+}
+.main-tweet{
+    font-family: "Segoe UI";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #000000;
+}
+.main-image12{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 318px;
+    margin-left: 58px;
+}
+.divde{
+    display: flex;
+}
+.nolik{
+    margin-top: -21px;
+}
+.main_like{
+    font-family: "Segoe UI";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+    color: #536471;
+}
+.brbalo{
+    margin-top: -5px;
+}
+.main-ovqat{
+    width: 500px;
+    margin-left: -35px;
+    border-radius: 15px;
+}
+.main-birbalo{
+    display: flex;
+    justify-content: space-between;
+}
+.select_option{
+    width: 70px;
+    height: 32px;
+    border: none;
+    margin-right: 15px;
+    margin-top: 20px;
+}

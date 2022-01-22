@@ -1,0 +1,93 @@
+header.light {
+	color: dimgray;
+	background-color: rgb(255, 255, 255);
+}
+
+header.dark {
+	color: wheat;
+	background-color: dimgray;
+	
+}
+header{
+	width: 339px;
+	height: 100%;
+}
+.header_list{
+	list-style-type: none;
+	margin-left: -30px;
+}
+.header_item{
+	margin-bottom: 32px;
+}
+.header_image{
+	margin-right: 20px;
+}
+.header_button{
+	width: 230px;
+	height: 55px;
+	background: #1D9BF0;
+	border-radius: 27.5px;
+	border: none;
+	color: white;
+	font-family: "Segoe UI";
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 24px;
+}
+.absattor{
+	font-family: "Segoe UI";
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 24px;
+	color: #000000;
+	text-decoration: none;
+}
+.header_hr{
+	width: 1px;
+	height: 989px;
+	margin-left: 46px;
+	margin-top: -10px;
+}
+.header_nav{
+	display: flex;
+	margin-left: 48px;
+}
+.bro-list{
+	display: flex;
+	margin-top: 260px;
+}
+.heading_div{
+	margin-top: -13px;
+}
+.header-link{
+	margin-top: -15px;
+	font-family: "Segoe UI";
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 21px;
+	color: #000000;
+	opacity: 0.6;
+}
+.header_anons{
+	font-family: "Segoe UI";
+	font-style: normal;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 21px;
+	color: #000000;
+}
+.heading_slipssle{
+	width: 17px;
+	height: 4px;
+	font-size: 40px;
+	margin-top: -73px;
+	margin-left: 146px;
+	
+}
+// .select_option{
+	// 	margin-left: 500px;
+	// }
+	

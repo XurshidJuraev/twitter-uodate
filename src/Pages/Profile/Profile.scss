@@ -1,0 +1,126 @@
+main2{
+    width: 600px;
+}
+li{
+    list-style-type: none;
+}
+.all-tweet{
+    font-family: "Segoe UI";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+    color: #000000;
+    opacity: 0.6;
+    margin-top: -20px;
+}
+
+.ucer-name{
+    font-family: "Segoe UI";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    color: #000000;
+}
+.klone-flex{
+    display: flex;
+    margin-top: 20px;
+}
+.classed{
+    margin-top: -32px;
+    margin-left: 20px;
+}
+.profile-image{
+    margin-top: -50px;
+    width: 120px;
+    height: 120px;
+    margin-left: 25px;
+}
+.profile-link{
+    font-family: "Segoe UI";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #1DA1F2;
+}
+.all-tweet2{
+    font-family: "Segoe UI";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #000000;
+}
+.profile-edit{
+    width: 120px;
+    height: 44px;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    box-sizing: border-box;
+    background-color: #fff;
+    border-radius: 50px;
+    font-family: "Segoe UI";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    color: #000000;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.profile-flex{
+    display: flex;
+    justify-content: space-between;
+}
+.profile-local{
+    font-family: "Segoe UI";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #000000;
+    opacity: 0.6;
+}
+.profile-item{
+    margin-left: 8px;
+    display: flex;
+    align-items: center;
+}
+.profile-list{
+    display: flex;
+    justify-content: space-between;
+    margin-left: -48px;
+    margin-top: -46px;
+}
+.profile-link12{
+    font-family: "Segoe UI";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #1DA1F2;
+    opacity: 1;
+}
+.all-follow{
+    display: flex;
+    margin-left: -30px;
+    margin-top: -42px;
+}
+.follower{
+    font-family: "Segoe UI";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+    color: #656565;
+    margin-left: 30px;
+}
+.profile--number__follow{
+    color: #000000;
+}
+.animer{
+    margin-left: -40px;
+    display: flex;
+    justify-content: space-between;
+}

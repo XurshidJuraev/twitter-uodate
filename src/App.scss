@@ -1,0 +1,32 @@
+ html {
+   height: 100%;
+   box-sizing: border-box;
+ }
+
+ *,
+ *::before,
+ *::after {
+   box-sizing: inherit;
+   scroll-behavior: smooth;
+ }
+ .visually-hidden {
+   position: absolute;
+   width: 1px;
+   height: 1px;
+   margin: -1px;
+   border: 0;
+   padding: 0;
+   clip: rect(0 0 0 0);
+   overflow: hidden;
+ }
+ .container{
+   max-width: 1240px;
+   padding-left: 20px;
+   padding-right: 20px;
+   margin-left: auto;
+   margin-right: auto;
+ }
+.disklone{
+  display: flex;
+  justify-content: space-between;
+}

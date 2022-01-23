@@ -20,7 +20,8 @@ function App () {
                 
                 <Routes>
                     <Route path='' element={<Main />} />
-                    <Route path='profile' element={<Main2></Main2>} />
+                    <Route path='/*' element={<Main />}/>
+                    <Route path='profile/:id' element={<Main2></Main2>} />
                 </Routes>
                 
                 

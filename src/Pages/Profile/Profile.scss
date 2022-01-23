@@ -36,6 +36,7 @@ li{
     width: 120px;
     height: 120px;
     margin-left: 25px;
+    border-radius: 50%;
 }
 .profile-link{
     font-family: "Segoe UI";
@@ -91,7 +92,7 @@ li{
     display: flex;
     justify-content: space-between;
     margin-left: -48px;
-    margin-top: -46px;
+    margin-top: -30px;
 }
 .profile-link12{
     font-family: "Segoe UI";
@@ -102,10 +103,17 @@ li{
     color: #1DA1F2;
     opacity: 1;
 }
+.usercani-avatari{
+    border-radius: 50%;
+}
+.ciqiw-exit{
+    border: none;
+    background-color: #fff;
+}
 .all-follow{
     display: flex;
     margin-left: -30px;
-    margin-top: -42px;
+    margin-top: -30px;
 }
 .follower{
     font-family: "Segoe UI";
